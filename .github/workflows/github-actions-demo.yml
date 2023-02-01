@@ -25,4 +25,4 @@ jobs: # list of things to do
         run: npm ci
 
       - name: Code Linting
-        run: npm lint
+        run: npm run lint
